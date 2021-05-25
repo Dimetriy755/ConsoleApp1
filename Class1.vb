@@ -448,7 +448,7 @@ Friend Module Class1
                             Else
                                 Console.WriteLine("")
                                 Console.ForegroundColor = ConsoleColor.Red
-                                Console.WriteLine(" Division by zero is impossible! Please don't try to divide by zero!")
+                                Console.WriteLine(" Division by zero is impossible! Please don't try to divide by zero.")
                                 Console.ForegroundColor = ConsoleColor.White
                                 Console.WriteLine(" -------------------------------------------------------------------")
                                 Console.Write(" Press <CLS> to clear the screen - ")
