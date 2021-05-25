@@ -2,4 +2,4 @@
 + Microsoft Visual Basic .NET Console Application
 + Good usable calculator
 
-![VB](https://www.seekpng.com/png/detail/340-3409774_net-old-logo-transparent-vb-net-logo.png)
+![VB](https://coderlessons.com/wp-content/uploads/images/gur/133a893488588ef41da8c955243a6656.jpg)
